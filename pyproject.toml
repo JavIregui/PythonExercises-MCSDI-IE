@@ -1,0 +1,20 @@
+[project]
+name = "pythonexercises-mcsdi-ie"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Javier Iregui", email = "tech@brindys.app" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+pythonexercises-mcsdi-ie = "pythonexercises_mcsdi_ie:main"
+
+[build-system]
+requires = ["uv_build>=0.12.19,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv]
+package = false
