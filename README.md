@@ -10,7 +10,7 @@ Each session has its own directory so that examples, experiments, and solutions 
 | ------- | --------------------------------------------------------------------------- | ---------------------------------------------- |
 | S1      | Interactive calculator: addition, subtraction, multiplication, and division | [`S1/src/calculator.py`](S1/src/calculator.py) |
 
-## Project structur
+## Project structure
 
 ```text
 .
